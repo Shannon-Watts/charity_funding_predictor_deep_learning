@@ -33,11 +33,8 @@ Therefore, I decided to use keras hyperparameter tuning to run through trials an
 ![image](https://user-images.githubusercontent.com/100214297/184427274-30fdfe6f-dc70-43c4-9f89-9155a3efe2be.png)
 
 
-The optimal model contained the following:
-Layers: 3
-Neurons: 
-Activation functions: relu and sigmoid 
-Epochs: 200
+![image](https://user-images.githubusercontent.com/100214297/184552446-e77ed410-374f-4303-ab07-438e3b7e320c.png)
+
 
 ## Summary 
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
