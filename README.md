@@ -37,4 +37,4 @@ Therefore, I decided to use keras hyperparameter tuning to run through trials an
 
 
 ## Summary 
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+In total I tried 7 different optimizations by changing the activation function, number of hidden layers, number of neurons, and number of epochs, however, the accuracy of the model did not reach the target performance of 75%. I would conitnue to optimize the model to try and increase te accuracy of the model. 
